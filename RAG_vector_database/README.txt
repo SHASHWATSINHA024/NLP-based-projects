@@ -1,3 +1,4 @@
-Engaged in building a RAG (Retrieval-Augmented Generation) framework 
-using Faiss for vector database operations. MISTRALAI facilitates embedding creation, and Euclidean similarity is 
-leveraged for querying and retrieving relevant data segments.
+->Developing a Retrieval-Augmented Generation (RAG) system.
+->Utilizing Faiss for efficient vector database operations.
+->Employing MISTRALAI for embedding generation.
+->Using Euclidean similarity for querying and retrieving relevant data chunks
